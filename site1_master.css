@@ -1,0 +1,27 @@
+
+body{
+  background-color: #D9EEE1;
+  }
+#name{
+   text-align: center;
+}
+#study{
+  text-align: center;
+}
+#firstp1{
+     text-align: center;
+}
+#mainpic1{
+  border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+    position: absolute;
+    top: 08px; left: 10px;
+}
+hr{
+  border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 5%;
+}
